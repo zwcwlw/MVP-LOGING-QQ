@@ -1,0 +1,10 @@
+# MyAppQQ
+mvp模式模仿QQ登陆使用到okhttp3.0 Bmob rxjava rxandroid
+colorPrimary: Toolbar导航栏的底色。
+colorPrimaryDark：状态栏的底色，注意这里只支持Android5.0以上的手机。
+textColorPrimary：整个当前Activity的字体的默认颜色。
+android:windowBackground：当前Activity的窗体颜色。
+colorAccent：CheckBox，RadioButton，SwitchCompat等控件的点击选中颜色
+colorControlNormal：CheckBox，RadioButton，SwitchCompat等默认状态的颜色。
+colorButtonNormal：默认状态下Button按钮的颜色，EditText边框的颜色。
+editTextColor：默认EditView输入框字体的颜色。
